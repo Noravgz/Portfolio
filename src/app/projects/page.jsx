@@ -40,7 +40,7 @@ export default function ProjectsPage() {
           >
             <div className="flex flex-col items-center bg-white/80 backdrop-blur-md p-4 rounded-xl shadow-md">
               <a
-                href="https://github.com/utilisateur/Owly-blog"
+                href="https://github.com/Noravgz/Owly-blog"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full"
