@@ -18,7 +18,7 @@ export default function SkillsPage() {
         {/* Fond blanc arrondi derrière le titre */}
         <div className="bg-white rounded-3xl p-6 shadow-md max-w-xl mx-auto text-center">
           <h1 className="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl">
-            Mes compétences et mes savoir-être
+          Compétences & soft skills
           </h1>
         </div>
       </div>

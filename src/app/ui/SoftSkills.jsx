@@ -20,7 +20,7 @@ export default function SoftSkills({ side }) {
       {displayed.map((skill, index) => (
         <div
           key={index}
-          className="px-4 py-4 bg-white text-black font-semibold text-sm rounded-lg shadow-md text-center
+          className="px-4 py-4 bg-white text-black font-semibold text-lg rounded-lg shadow-md text-center
                      transition-transform duration-300 ease-in-out
                      hover:-translate-y-1 hover:scale-105 cursor-pointer"
         >
