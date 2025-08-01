@@ -31,7 +31,7 @@ export default function HomePage() {
           </h2>
 
           <h2 className="mt-6 mb-10 font-semibold max-w-xl">
-          En quête d’une alternance en WebDesign/Développement web pour allier créativité et technique.
+          En quête d’une alternance en Création numérique/Front-end pour allier créativité et technique.
           </h2>
         </div>
       </div>
